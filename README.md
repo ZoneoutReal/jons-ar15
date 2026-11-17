@@ -1,3 +1,5 @@
-This repository was created while trying to publish Jon's AR-15 viewer.
+# Jon's AR-15
 
-The built site was not uploaded here. The deployable static folder is `docs/` in the project that built it. Asset paths in that folder are relative, so it can be hosted at any URL path.
+Interactive 3D viewer of Jon's planned AR-15 build. Orbit the rifle, slide it apart, and read what each part does and costs.
+
+**Live site:** https://zoneoutreal.github.io/jons-ar15/
